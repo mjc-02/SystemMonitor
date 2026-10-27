@@ -1,0 +1,4 @@
+PyQt6>=6.7
+pyqtgraph>=0.13
+psutil>=6.0
+pytest>=8.0
